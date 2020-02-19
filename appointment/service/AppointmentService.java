@@ -81,6 +81,7 @@ public class AppointmentService {
 			            	  else
 			            	  {
 			            		System.out.println("Invalid /nEnter again");
+						  break;
 			            	  }
 		            	}
 		            
